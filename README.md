@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on efficient and scalable solutions in software engineering. <br>👯 I’m looking to collaborate on automation testing projects. <br>🌱 I’m currently learning more about machine learning algorithms and their applications. <br>💬 Ask me about my experience in automation testing, mobile app development, and machine learning. <br>⚡ Fun fact: I thrive on the challenge of turning complex problems into simple and elegant solutions.
+🔭 I’m currently working on efficient and scalable solutions in software engineering. <br>👯 I’m looking to collaborate on automation testing projects. <br>🌱 I’m currently learning more about machine learning algorithms and their applications. <br>💬 Ask me about my experience in automation testing, web app development, and data scraping. <br>⚡ Fun fact: I thrive on the challenge of turning complex problems into simple and elegant solutions.
 
 
 ## 🌐 Socials:
